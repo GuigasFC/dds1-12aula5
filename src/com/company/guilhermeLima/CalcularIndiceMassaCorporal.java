@@ -1,4 +1,4 @@
-package com.company.comecando;
+package com.company.guilhermeLima;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.company.comecando;
+package com.company.guilhermeLima;
 
 public class TiposNumericos {
     public static void main(String[] args) {
